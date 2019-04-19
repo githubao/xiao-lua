@@ -72,3 +72,11 @@ Iter()
 -- %Y full year (1998)
 -- %y two-digit year (98) [00-99]
 -- %% the character '%'
+
+-- \a 响铃
+-- \b 退格
+-- \f 表单
+-- \n 换行
+-- \r 回车
+-- \t 横向制表
+-- \v 纵向制表

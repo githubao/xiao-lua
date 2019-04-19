@@ -16,6 +16,9 @@ function read_write()
     io.write('中文\n')
     io.write('bye\n')
 
+    io.write("a\vb\n")
+    io.write("c\fd\n")
+
     io.close(f)
 
 --    local f = io.open(filename, 'r')
